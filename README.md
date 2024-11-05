@@ -1,2 +1,2 @@
 # Card-links
-Creo una card donde van todos los links a mis redes y sitios
+Creo una tarjeta donde van todos los enlaces a mis redes y sitios.
